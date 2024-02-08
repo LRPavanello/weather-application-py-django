@@ -2,6 +2,8 @@
 
 This project aims to create a weather application using Django, a high-level Python web framework, to consult an API and display weather information to users. By integrating an external API, this application provides real-time weather updates for specified locations.
 
+<img src='weather.png'/>
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
